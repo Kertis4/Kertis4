@@ -35,7 +35,9 @@
   <a href="https://www.linkedin.com/in/eoin-curtis-6b2496330">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="mailto:eoincur14@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -44,7 +46,7 @@
 
 ###
 
-<p align="left">I am a student in Dublin currently seeking an academic or summer software engineering internship. <br>My main language is python and I am familiar with multiple frameworks for backend development, data science, and machine learning.<br>I am also currently learning C++ (Arduino) embedded systems and memory control for a robotics competition.<br>I have basic SQL skills for querying and database design.</p>
+<p align="left">I am a student in Dublin currently seeking an academic or summer software engineering internship. <br>My main language is Python and I am familiar with multiple frameworks for backend development, data science, and machine learning.<br>I am also currently learning C++ (Arduino) for embedded systems and memory control for a robotics competition.<br>I have basic SQL skills for querying and database design.</p>
 
 ###
 
