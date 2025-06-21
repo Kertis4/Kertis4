@@ -42,14 +42,7 @@
 
 ###
 
-<p align="left">
-  I am a fullstack developer currently focused on React and Flask, with strong skills in Python and JavaScript.  
-  I build web applications with modern frontend and backend frameworks, and have experience working with PostgreSQL databases.  
-  I am currently developing a Clash Royale deck recommender — a web app that fetches player card data via the Clash Royale API and uses backend logic to suggest optimized decks.  
-  I was runner-up for Technical Excellence at the Data4Good Hackathon and contributed to a funded proof of concept project for the UCD Festival.  
-  I am eager to apply my skills in a software engineering internship or academic research project.
-</p>
-
+<p align="left"> I am a full-stack developer experienced in React and Flask, currently seeking a software engineering internship.<br> I founded a funded proof of concept project for the UCD Festival: a CSO report generator designed to streamline and automate report creation.<br> I was runner-up for technical excellence in the Data4Good Hackathon.<br> I am currently working on a Clash Royale deck recommender app that uses player card data to generate optimized decks.<br> My skill set includes Python, JavaScript, and web technologies focused on building efficient and user-friendly applications. </p>
 ###
 
 <br clear="both">
