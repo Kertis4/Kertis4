@@ -10,45 +10,45 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eoin-curtis-6b2496330">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/eoin-curtis-6b2496330" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=eoincur14@gmail.com" target="_blank">>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:eoincur14@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://tse2.mm.bing.net/th?id=OIP.6SWuFDC8ciMHRwQhN8XgVwAAAA&pid=Api&P=0&h=180"  />
+<img align="right" height="150" src="https://tse2.mm.bing.net/th?id=OIP.6SWuFDC8ciMHRwQhN8XgVwAAAA&pid=Api&P=0&h=180" alt="profile image" />
 
 ###
 
-<p align="left">I am a student in Dublin currently seeking an academic or summer software engineering internship. <br>My main language is Python and I am familiar with multiple frameworks for backend development, data science, and machine learning.<br>I am also currently learning C++ (Arduino) for embedded systems and memory control for a robotics competition.<br>I have basic SQL skills for querying and database design.</p>
+<p align="left">
+  I am a fullstack developer currently focused on React and Flask, with strong skills in Python and JavaScript.  
+  I build web applications with modern frontend and backend frameworks, and have experience working with PostgreSQL databases.  
+  I am currently developing a Clash Royale deck recommender — a web app that fetches player card data via the Clash Royale API and uses backend logic to suggest optimized decks.  
+  I was runner-up for Technical Excellence at the Data4Good Hackathon and contributed to a funded proof of concept project for the UCD Festival.  
+  I am eager to apply my skills in a software engineering internship or academic research project.
+</p>
 
 ###
 
