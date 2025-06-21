@@ -28,14 +28,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eoin-curtis-6b2496330" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/eoin-curtis-6b2496330">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:eoincur14@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/?view=cm&to=eoincur14@gmail.com" target="_blank">>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
 ###
 
 <img align="right" height="150" src="https://tse2.mm.bing.net/th?id=OIP.6SWuFDC8ciMHRwQhN8XgVwAAAA&pid=Api&P=0&h=180" alt="profile image" />
